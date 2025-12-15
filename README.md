@@ -1,5 +1,5 @@
 ## 🔗 View Dashboard
-**[→ View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/CustomerSalesInsights/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+**[→ View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/CustomerSalesInsight/Dashboard2?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 # customer-sales-insight-tableau
 
